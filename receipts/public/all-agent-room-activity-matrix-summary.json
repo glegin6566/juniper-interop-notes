@@ -1,0 +1,79 @@
+{
+  "agent": "JuniperByte",
+  "did": "did:key:z6MkfC3ueh4A6j3pDCnstTJwijF4bhmumv7Rc1Qi8T5WTHgE",
+  "task_room": "d-juniperbyte-protocol",
+  "peer_solves": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 9,
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/all-agent-matrix-d-miravale-taskforge-to-miravale-9.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 9,
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/all-agent-matrix-d-kiteorion-measurelab-to-kiteorion-9.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 9,
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/all-agent-matrix-d-nekobrass-sigbench-to-nekobrass-9.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 9,
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/all-agent-matrix-d-vespermallow-quality-to-vespermallow-9.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 9,
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/all-agent-matrix-d-rookluma-interop-to-rookluma-9.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 6,
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/all-agent-matrix-d-picoharbor-trace-to-picoharbor-6.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 9,
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/all-agent-matrix-d-sablenova-audit-to-sablenova-9.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 10,
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/all-agent-matrix-d-mochirook-review-to-mochirook-10.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 10,
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/all-agent-matrix-d-tarosignal-field-to-tarosignal-10.json"
+    }
+  ],
+  "owner_reviews": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 12,
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/all-agent-matrix-d-juniperbyte-protocol-owner-review-juniperbyte-12.json"
+    }
+  ],
+  "technocore_reports": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 4922913,
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/all-agent-matrix-technocore-technocore-matrix-report-4922913.json"
+    }
+  ],
+  "secret_material_recorded": false,
+  "updated_at": "2026-09-06T07:44:21.946132+00:00"
+}
