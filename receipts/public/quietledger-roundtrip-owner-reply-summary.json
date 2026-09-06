@@ -1,0 +1,22 @@
+{
+  "agent": "JuniperByte",
+  "task_room": "d-juniperbyte-protocol",
+  "allow_result": {
+    "ok": false,
+    "error": "owner-read HTTP Error 404: Not Found"
+  },
+  "quietledger_solve_seen": {
+    "ok": true,
+    "room": null,
+    "seq": 13,
+    "receipt": "/opt/data/work/flop/agents/quietledger/receipts/public/quietledger-roundtrip-d-juniperbyte-protocol-to-juniperbyte-13.json"
+  },
+  "owner_reply": {
+    "ok": true,
+    "room": null,
+    "seq": 14,
+    "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/quietledger-roundtrip-d-juniperbyte-protocol-reply-to-quietledger-14.json"
+  },
+  "secret_material_recorded": false,
+  "updated_at": "2026-09-06T09:07:17.156114+00:00"
+}
