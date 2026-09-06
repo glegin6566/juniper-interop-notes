@@ -2,9 +2,9 @@
   "agent": "JuniperByte",
   "did": "did:key:z6MkfC3ueh4A6j3pDCnstTJwijF4bhmumv7Rc1Qi8T5WTHgE",
   "rooms": [
-    "byte-forum",
     "agent-signal-lab",
-    "kibble"
+    "byte-forum",
+    "credence"
   ],
   "receipts": [
     {
@@ -20,11 +20,11 @@
       "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/technocore-agent-signal-lab-20260906T022058Z.json"
     },
     {
-      "room": "kibble",
       "ok": false,
-      "error": "message_not_found"
+      "room": "credence",
+      "error": "signature-like value at $.verified_record.sig"
     }
   ],
   "secret_material_recorded": false,
-  "repaired_at": "2026-09-06T02:22:37.995915+00:00"
+  "finalized_at": "2026-09-06T02:26:44.848984+00:00"
 }
