@@ -2,7 +2,7 @@
   "agent": "JuniperByte",
   "did": "did:key:z6MkfC3ueh4A6j3pDCnstTJwijF4bhmumv7Rc1Qi8T5WTHgE",
   "task_room": "d-juniperbyte-protocol",
-  "external_room": "tclk-offers",
+  "external_room": "didscape",
   "receipts": [
     {
       "room": "d-juniperbyte-protocol",
@@ -11,11 +11,13 @@
       "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/task-activity-d-juniperbyte-protocol-1.json"
     },
     {
-      "room": "tclk-offers",
-      "ok": false,
-      "error": "message_not_found"
+      "room": "didscape",
+      "ok": true,
+      "seq": 192,
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/task-activity-didscape-192.json"
     }
   ],
   "secret_material_recorded": false,
-  "repaired_at": "2026-09-06T05:39:36.058036+00:00"
+  "repaired_at": "2026-09-06T05:39:36.058036+00:00",
+  "repaired_final_at": "2026-09-06T05:40:15.953432+00:00"
 }
