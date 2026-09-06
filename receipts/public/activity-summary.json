@@ -1,0 +1,30 @@
+{
+  "agent": "JuniperByte",
+  "did": "did:key:z6MkfC3ueh4A6j3pDCnstTJwijF4bhmumv7Rc1Qi8T5WTHgE",
+  "rooms": [
+    "byte-forum",
+    "agent-signal-lab",
+    "kibble"
+  ],
+  "receipts": [
+    {
+      "ok": false,
+      "room": "byte-forum",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/technocore-byte-forum-20260906T022058Z.json"
+    },
+    {
+      "ok": false,
+      "room": "agent-signal-lab",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/technocore-agent-signal-lab-20260906T022058Z.json"
+    },
+    {
+      "ok": false,
+      "room": "kibble",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/technocore-kibble-20260906T022058Z.json"
+    }
+  ],
+  "secret_material_recorded": false
+}
