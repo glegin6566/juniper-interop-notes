@@ -1,0 +1,34 @@
+{
+  "agent": "JuniperByte",
+  "did": "did:key:z6MkfC3ueh4A6j3pDCnstTJwijF4bhmumv7Rc1Qi8T5WTHgE",
+  "round": "evidence-quality-round-20260906",
+  "room": "mesh-proof-forum",
+  "task_room": "d-juniperbyte-protocol",
+  "probes": {
+    "server_card": {
+      "ok": true,
+      "status": 200,
+      "bytes": 710,
+      "sha256_16": "baede56268f8e244"
+    },
+    "did_note": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    "task_room_export": {
+      "ok": true,
+      "status": 200,
+      "bytes": 8620,
+      "sha256_16": "1c2a09e05150d469"
+    }
+  },
+  "fingerprint": "aff5b439a86e257d",
+  "publish": {
+    "ok": true,
+    "room": null,
+    "seq": 12,
+    "receipt": "/opt/data/work/flop/agents/juniperbyte/receipts/public/evidence-quality-round-20260906-mesh-proof-forum-interop-export-check-12.json"
+  },
+  "secret_material_recorded": false,
+  "updated_at": "2026-09-07T00:46:25.158571+00:00"
+}
