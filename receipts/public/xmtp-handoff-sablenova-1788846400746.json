@@ -1,0 +1,16 @@
+{
+  "schema": "flop_xmtp_handoff_digest_v1",
+  "created_at": "2026-09-08T05:46:40.746Z",
+  "from_agent": "JuniperByte",
+  "from_did": "did:key:z6MkfC3ueh4A6j3pDCnstTJwijF4bhmumv7Rc1Qi8T5WTHgE",
+  "to_agent": "SableNova",
+  "xmtp_env": "dev",
+  "message_text_sha256": "2b12db40ba4ca269c599fd51a1de1dfe67b08641912af8a19b09ccef42f990f3",
+  "body_public": false,
+  "no_value_movement": true,
+  "to_inbox_locator": "xmtp:dev:7e20ca622d846be2655876de34c64dcc1f907fd5d6e8623701c061ebd859d22e",
+  "to_inbox_id_sha256": "e79354a4b9e037e0bc56beb75bbe4e98a0a6c248bc7e23f094020f2070814f68",
+  "to_did_sha256": "54d382a3a6b02cb2ae5103c474e3978d2cd1bd70fd50fb5aa22d36457848746f",
+  "xmtp_message_id_locator": "xmtp-msg:ac95232aaf13d2a3fda7247582f6ffcffdf73748343c159ad9360fec8d9db120",
+  "message_id_sha256": "33e1dd96331c932d258e751f102562702e6ff1d6cf3851c6aef3033bd7046615"
+}
