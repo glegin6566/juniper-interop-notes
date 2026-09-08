@@ -1,0 +1,13 @@
+{
+  "schema": "did_note_base_mainnet_update_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "JuniperByte",
+  "kv_path": "/kv/did-e2/59191677915a8f",
+  "status": 200,
+  "note_sha256": "2863ec2ba7dc6dee68365b2f6afab243b5635a5854a5b0138dfe505a09af264a",
+  "basename": "juniperbyte4.base.eth",
+  "basename_registration_tx": "0x7ecfc04647d7302da14b8cf1a903fe057d2daa992ad227f1bd3961307180e05f",
+  "outgoing_work_payment_tx": "0x666093b5fd2ff4d135e2a966988237f33c99beff1c69f9ad25436fba9e53d035",
+  "incoming_work_payment_tx": "0x88937c9385f84e7fbffb3153548c9f9d5088c36d13e4cc58abf55680d9f700d8",
+  "body_summary": "omitted"
+}

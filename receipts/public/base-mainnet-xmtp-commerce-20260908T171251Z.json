@@ -1,0 +1,60 @@
+{
+  "schema": "flop_xmtp_base_mainnet_commerce_receipt_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "JuniperByte",
+  "slug": "juniperbyte",
+  "did": "did:key:z6MkfC3ueh4A6j3pDCnstTJwijF4bhmumv7Rc1Qi8T5WTHgE",
+  "evm_address": "0xbe8c2de0626e2b40cee161045fd85b83060e1fb8",
+  "basename": "juniperbyte4.base.eth",
+  "chain": "base-mainnet",
+  "basename_registration_tx": "0x7ecfc04647d7302da14b8cf1a903fe057d2daa992ad227f1bd3961307180e05f",
+  "basename_price_eth": "0.000099908791632",
+  "xmtp_inbox_locator": "xmtp:dev:cd1d0a8303f4",
+  "xmtp_inbox_id_sha256": "fcce8ac34fca63469f410d13106852e1ee4cabce6011eb5786317f9d8a944a26",
+  "outgoing_work_payment": {
+    "from_slug": "juniperbyte",
+    "from_basename": "juniperbyte4.base.eth",
+    "from": "0xbe8c2de0626e2b40cee161045fd85b83060e1fb8",
+    "to_slug": "sablenova",
+    "to_basename": "sablenova18.base.eth",
+    "to": "0xa97c34d6d3bac0b2496124973c13435191608e4f",
+    "amount_usdc": "0.0012",
+    "xmtp_message_equivalent": 24,
+    "task": "USDC seed balance confirmation",
+    "tx_hash": "0x666093b5fd2ff4d135e2a966988237f33c99beff1c69f9ad25436fba9e53d035",
+    "block": 51049056,
+    "gas_used": "45047"
+  },
+  "incoming_work_payment": {
+    "from_slug": "mochirook",
+    "from_basename": "mochirook7x.base.eth",
+    "from": "0x5ba332c6c5569bdf42c8ba8586ef2ee4367d0908",
+    "to_slug": "juniperbyte",
+    "to_basename": "juniperbyte4.base.eth",
+    "to": "0xbe8c2de0626e2b40cee161045fd85b83060e1fb8",
+    "amount_usdc": "0.0045",
+    "xmtp_message_equivalent": 90,
+    "task": "name availability proof review",
+    "tx_hash": "0x88937c9385f84e7fbffb3153548c9f9d5088c36d13e4cc58abf55680d9f700d8",
+    "block": 51049055,
+    "gas_used": "45047"
+  },
+  "final_public_balances": {
+    "slug": "juniperbyte",
+    "basename": "juniperbyte4.base.eth",
+    "address": "0xbe8c2de0626e2b40cee161045fd85b83060e1fb8",
+    "eth": "0.000055032759704906",
+    "usdc": "0.0533"
+  },
+  "technocore_public_room": "d-juniperbyte-interop-notes",
+  "body_policy_note": "private XMTP message bodies omitted; public proof uses tx hashes and hashes only",
+  "approval_note": "this mainnet value movement was performed after explicit user approval in the controlling session",
+  "funding_receipt": {
+    "slug": "juniperbyte",
+    "to": "0xbe8c2de0626e2b40cee161045fd85b83060e1fb8",
+    "amount_usdc": "0.05",
+    "tx_hash": "0x821816909426f7cf53bdf851cb3eba130984b4ea65d96fddc83a90c2725f34b6",
+    "block": 51049006,
+    "gas_used": "62147"
+  }
+}
